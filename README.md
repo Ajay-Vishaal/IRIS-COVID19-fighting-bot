@@ -4,6 +4,7 @@ A voice and smartphone controlled robot to fight the covid-19 pandemic.
 Now the world is in  a great pandemic.And I found that Doctors are getting affected by the corona virus while treating and taking care of the patients. So to save the life of the doctors as well as to reduce the disease spread I've come up wiyh an idea of making IRIS-covid19 fighting bot.
 
 USE CASES OF BOT:
+
 CASE 1:
     We can use this bot in hospitals to collect samples from the patients who are coming to the hospitals for covid 19 checkup. Employing this kind of robots will lower the risk of disease spread,also the bot has inbuilt non contact IR temperature sensor for temperature scanning.
     
